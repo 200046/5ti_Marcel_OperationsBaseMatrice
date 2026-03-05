@@ -12,3 +12,4 @@ C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\5ti_Marcel_Ope
 C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\5ti_Marcel_OperationsBaseMatrice\5ti_Marcel_Matrice\obj\Debug\net8.0\5ti_Marcel_Matrice.pdb
 C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\5ti_Marcel_OperationsBaseMatrice\5ti_Marcel_Matrice\obj\Debug\net8.0\5ti_Marcel_Matrice.genruntimeconfig.cache
 C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\5ti_Marcel_OperationsBaseMatrice\5ti_Marcel_Matrice\obj\Debug\net8.0\ref\5ti_Marcel_Matrice.dll
+C:\Users\Marce\OneDrive\Desktop\Ecole\5TTI (2025-2026)\info\UAA11\5ti_Marcel_OperationsBaseMatrice\5ti_Marcel_Matrice\obj\Debug\net8.0\5ti_Marcel_Matrice.sourcelink.json
